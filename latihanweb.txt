@@ -1,5 +1,5 @@
 Belajar membuat web dengan framework laravel
--CSS
 -HTML
 -Bootstrap
 -Javascript
+-database
